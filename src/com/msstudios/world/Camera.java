@@ -8,7 +8,8 @@ public class Camera {
 	public static int clamp(int Atual, int Min, int Max) {
 		if(Atual < Min) {
 			Atual = Min;
-		}if (Atual > Max) {
+		}
+		if (Atual > Max) {
 			Atual = Max;
 		}
 		return Atual;
