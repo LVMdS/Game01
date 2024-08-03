@@ -1,6 +1,4 @@
-# Game01--stage-cru--
-
-#Game01--stage-crude--
+#Game01
 
 #VERSION 0.0.1
 
